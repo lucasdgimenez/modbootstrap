@@ -1,0 +1,33 @@
+.row [class^=col-], .row .col {
+				background-color: #DDD;
+				border: 1px solid #CCC;
+				height: 50px;
+			}
+			.row {
+				background-color: #FF9999;
+				padding: 10px;
+				height: 500px;
+			}
+			.avatar {
+				height: 50px;
+				width: 50px;
+			}
+			.teste {
+				height: 400px;
+				width: 400px;
+				border: 1px solid #000;
+			}
+			#area {
+				border: 1px solid #000;
+				background-color: #EEEEEE;
+				padding: 20px;
+			}
+			.haha {
+				margin: 20px;
+				width: 600px; 
+			}
+
+		.haha a {
+			list-style: none;
+		}
+		 
